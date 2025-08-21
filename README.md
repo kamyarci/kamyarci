@@ -1,22 +1,9 @@
-# Bem-vindo(a) ao meu perfil! Eu sou a Kamyla👋
-
-Sou estudante do 4º período de Engenharia de Software e estagiária de desenvolvimento full stack, apaixonada por tecnologia e por criar soluções criativas.
-
-Muitos me conhecem como advogada — uma trajetória cheia de desafios e aprendizagens. Mas, no fundo, sempre tive uma ligação forte com a tecnologia. 
-
-Essa paixão me levou a uma decisão corajosa: deixar o Direito para trás e me dedicar à Engenharia de Software, estudando para me tornar uma engenheira de software completa, com visão ampla de sistemas, arquitetura e desenvolvimento.
-
-Hoje, como estudante do 4º período e estagiária full stack, estou descobrindo o prazer de aprender, criar soluções inovadoras e crescer a cada desafio. 
-Essa migração não é só uma escolha profissional, é a realização de um sonho e um compromisso com meu futuro.
-
-Se você também está buscando seu caminho, lembre-se: paixão e determinação transformam qualquer jornada.
-
+# Olá👋
 
 ## Sobre mim
-
 - 🎓 Cursando Engenharia de Software (4º semestre)
 - 💼 Estagiária de Desenvolvimento Full Stack, atuando principalmente com PHP, HTML, CSS, bancos de dados SQL, Javascript, entre outros. 
-- 🚀 Aprendendo Laravel, arquitetura limpa, arquitetura MVC e aprimorando conhecimentos em backend
+- 🚀 Aprendendo arquitetura limpa, arquitetura MVC e aprimorando conhecimentos em backend
 - 📚 Apaixonada por estudar novas tecnologias, conceitos e teorias, especialmente Java e Spring Boot
 - 🌱 Em constante aprendizado para crescer na área de desenvolvimento de software
 
